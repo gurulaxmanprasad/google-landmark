@@ -18,7 +18,7 @@ NUM_PROC=6
 
 # Dataset split to download.
 # Options: train, test, index.
-SPLIT=$1
+SPLIT=$2            
 
 # Inclusive upper limit for file downloads. Should be set according to split:
 # train --> 499.
